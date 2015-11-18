@@ -23,8 +23,7 @@ you **MUST** register: see [Registering](Registering.md) section.
 
 Slides
 ======
-The [Documents](Documents) directory contains slides and material related
-to exercices or small case studies.
+Material related with the course can be found in the [Slides](Slides) and [CaseStudies](CaseStudies) directories.
 
 Tools
 =====

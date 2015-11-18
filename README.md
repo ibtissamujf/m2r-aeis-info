@@ -10,10 +10,10 @@ Outline
 =======
 The course is made of 4 different parts:
 
-#. Process Engineering - S. Dupuy
-#. Modeling, Metamodeling, Megamodeling and Tooling - J.M. Favre
-#. Patterns - A. Front
-#. Engineering Embedded Systems - C. Fabre
+#. **Process Engineering** - S. Dupuy (6x1h30)
+#. **Modeling, Metamodeling, Megamodeling and Tooling** - J.M. Favre (12x1h30)
+#. **Patterns** - A. Front (4x1h30)
+#. **Engineering Embedded Systems** - C. Fabre (4x1h30)
 
 Registering to the course
 =========================

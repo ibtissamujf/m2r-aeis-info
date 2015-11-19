@@ -19,7 +19,12 @@ Registering
 ===========
 
 If you are intended to follow this course and get a grade
-you **MUST** register: see [Registering](Registering.md) section.
+you **MUST** register: see the [Registering](Registering.md) section.
+
+Working with GitHub
+===================
+GitHub will be used for delivering assignements. To install, configure, 
+and use GitHub and git see the section [UsingGithub](UsingGithub.md).
 
 Slides
 ======

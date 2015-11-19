@@ -25,7 +25,7 @@ see the [Registering](Registering.md) section.
 Working with GitHub
 ===================
 GitHub will be used for delivering assignements. To install, configure, 
-and use GitHub (and git) see the section [UsingGithub](UsingGithub.md).
+and use GitHub (and git) see the section [UsingGitHub](UsingGitHub.md).
 
 Slides
 ======
@@ -35,5 +35,8 @@ directories.
 
 Tools
 =====
-Information about installing USE OCL and modelio can be found
-at the following address: <http://ScribeTools.readthedocs.org>
+Information about installing/using 
+[USE OCL](http://scribetools.readthedocs.org/en/latest/useocl/index.html), 
+[Modelio](http://scribetools.readthedocs.org/en/latest/modelio) and 
+[GitHub](http://scribetools.readthedocs.org/en/latest/github/index.html) 
+can be found at the following address: <http://ScribeTools.readthedocs.org>

@@ -21,13 +21,12 @@ plan. This should take less than 5 mn.
 3. Fill the AEIS Student form
 -----------------------------
 
-Once the github account created, you must fill the following form. 
-This step if compulsory. 
+Once the github account created, you **must** fill the following form: 
 <http://goo.gl/forms/OQO6DVL3JP>
 
-Filling this form will send us your application. Please allow us
+Filling this form will send your information but please allow us
 a couple of days to process it. Github invitations (next step)
-have to be processed manually.
+have to be processed manually so you may have to wait a bit for the next step.
 
 4. Accept the GitHub m2r invitation
 -----------------------------------
@@ -49,6 +48,7 @@ group number like G03. This is your group number.
 After the end of assignments, the content of this repository will be
 used to evaluate your work. Just make 
 
-5. Initalize and use GitHub
----------------------------
+5. Using GitHub
+---------------
 You will then need to initialize git on our machine and then use it.
+See [UsingGitHub](UsingGitHub.md)

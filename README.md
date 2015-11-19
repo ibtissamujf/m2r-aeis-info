@@ -18,17 +18,20 @@ The course is made of 4 different parts:
 Registering
 ===========
 
-If you are intended to follow this course and get a grade
-you **MUST** register: see the [Registering](Registering.md) section.
+If you want to follow this course and get a grade
+you **MUST** register and provide some required information:
+see the [Registering](Registering.md) section.
 
 Working with GitHub
 ===================
 GitHub will be used for delivering assignements. To install, configure, 
-and use GitHub and git see the section [UsingGithub](UsingGithub.md).
+and use GitHub (and git) see the section [UsingGithub](UsingGithub.md).
 
 Slides
 ======
-Material related with the course can be found in the [Slides](Slides) and [CaseStudies](CaseStudies) directories.
+Some material related with the course can be found 
+in the [Slides](Slides) and [CaseStudies](CaseStudies) 
+directories.
 
 Tools
 =====

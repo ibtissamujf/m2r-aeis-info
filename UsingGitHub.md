@@ -30,7 +30,7 @@ git clone https://noezarwin@github.com/m2cci/m2r-aeis-G00.git
 
 #---- Configure your local repository -------------------------------------------------------
 cd m2r-aeis-G00
-git remote add root https://noezarwin@github.com/m2cci/m2r-aeis-root.git
+git remote add root https://noezarwin@github.com/m2r/m2r-aeis-root.git
 git pull -e root master
 ls -la
 ```

@@ -40,3 +40,15 @@ Information about installing/using
 [Modelio](http://scribetools.readthedocs.org/en/latest/modelio) and 
 [GitHub](http://scribetools.readthedocs.org/en/latest/github/index.html) 
 can be found at the following address: <http://ScribeTools.readthedocs.org>
+
+Questions ?
+===========
+If you have some comments or have a question please post an GitHub issue. 
+
+* If the "issue" could be of interest to others, then post the issue in the 
+  m2r-aeis-info repository ([here](https://github.com/m2r/m2r-aeis-info/issues/new)).
+
+* If the question is only related to your group (you and your partner) please post 
+  the issue in the repository of your group (``m2r-aeis-G00`` for instance). 
+  Use the (!) button to create an issue (vertical toolbar on the left in GitHub interface).
+

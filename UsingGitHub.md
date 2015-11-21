@@ -1,8 +1,9 @@
 Using GitHub for Assignments
 ============================
 The purpose of this page is to explain how to use git/gitHub 
-to realize and deliver course assignments. 
-General information about GitHub/Git can be found  at 
+for course assignments. 
+General information about GitHub/Git can be found on 
+[ScribeTools](http://scribetools.readthedocs.org) in the 
 [Git(Hub) section](http://scribetools.readthedocs.org/en/latest/github/index.html). 
 
 Overview

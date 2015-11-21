@@ -37,13 +37,17 @@ sent to the email associated with you github account.
 Make sure that this adress is correct and that you specified
 the proper github account in the 'AEIS Student Form'.
 
-Once invited you just have indeed to go to the ``m2r organization``
+Once invited, you just have indeed to go to the ``m2r organization``
 <https://github.com/m2r>. If you are logged in you should see the 
 invitation on the top of the screen. 
 
-Accepting the invitation will show you more repositories. In particular
-a repository for your group. The name of this repository ends with a 
-group number like G03. This is your group number.
-
-After the end of assignments, the content of this repository will be
-used to evaluate your work.
+Accepting the invitation should show you:
+1.  The "info repository" which provides general information about
+    the course.
+2.  The "root repository" which contains assignments definition,
+    skeletons for realizing assignements, etc.
+3.  Your "group repository". The name of this repository ends with a 
+    group number like ``G12``. ``G12`` will be your group number.
+    You are going to share this repository with other group members.
+    All you have write access. You will use it to implement the
+    assignments.

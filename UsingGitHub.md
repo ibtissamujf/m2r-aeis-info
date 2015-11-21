@@ -302,10 +302,11 @@ repository that is most suited to your issue:
   
 * If the "issue" is related to a particular assignment and the question/issue
   is relevant to other groups, then post the issue in the ``m2r-aeis-root``
-  repository ([here](https://github.com/m2r/m2r-aeis-info/issues/new))
+  repository ([here](https://github.com/m2r/m2r-aeis-root/issues/new))
   
 * If the "issue" is only related to your group (you and other group member partner)
   please post the issue in your group repository (``m2r-aeis-G12`` for instance). 
-  Use the (!) button to [create an issue](https://guides.github.com/features/issues/).
+  Use the (!) button in the web interface (see
+  [create an issue](https://guides.github.com/features/issues/) for details).
   
 If you have some answer to some posted issues, please provide it directly online. 

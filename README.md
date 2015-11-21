@@ -62,32 +62,7 @@ Information about installing/using
 [GitHub](http://scribetools.readthedocs.org/en/latest/github/index.html) 
 can be found at the following address: <http://ScribeTools.readthedocs.org>
 
-Staying informed ?
-------------------
-If you want to stay informed you may want to "Watch" the following
-repositories. If you receive too much notification you can change
-the settings at any moment.
-
-*   [Watch m2r-aeis-info](https://github.com/m2r/m2r-aeis-info/subscription)
-    for general information about the course.
-    
-*   [Watch m2r-aeis-root](https://github.com/m2r/m2r-aeis-root/subscription)
-    for information about assignments.
-    
-Questions / Bug / ... ?
------------------------
-If you have some comments or have a question please post an 
-[GitHub issue](https://guides.github.com/features/issues/). Please select the
-repository that is most suited to your issue. 
-
-* If the "issue" could be of interest to others and concern the course in general, 
-  then post the issue in the ``m2r-aeis-info`` repository 
-  ([here](https://github.com/m2r/m2r-aeis-info/issues/new)).
-  
-* If the "issue" is related to a particular assignment and the question/issue
-  is relevant to other groups, then post the issue in the ``m2r-aeis-root``
-  repository ([here](https://github.com/m2r/m2r-aeis-info/issues/new))
-  
-* If the "issue" is only related to your group (you and other group member partner)
-  please post the issue in your group repository (``m2r-aeis-G12`` for instance). 
-  Use the (!) button to [create an issue](https://guides.github.com/features/issues/).
+Want to stay tuned? Some questions ?
+------------------------------------
+Please have a look at the related sections at the end of the 
+[UsingGitHub](UsingGitHub.md) section.

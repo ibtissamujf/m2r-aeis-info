@@ -265,3 +265,47 @@ git pull -e root master
 Pulling changes may cause some merge conflicts. 
 See [resolving merge conflicts](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/)
 in this case.
+
+Staying informed with GitHub
+-------------------------
+In GitHub terms, "Watching" a repository means receiving notification when
+changes occur to it.
+
+Since you are member of your "group repository" you will automatically receive
+notifications for new commits for instance. This is handy to keep in synch 
+with other group members. By default you "Watch" this repository but you
+can change this by pressing on the "Unwatch" button on GitHub.
+
+If you want to stay informed you may also want to "Watch" the following
+repositories. If you receive too much notification you can change
+the settings at any moment.
+
+*   [Watch m2r-aeis-info](https://github.com/m2r/m2r-aeis-info/subscription)
+    for general information about the course.
+    
+*   [Watch m2r-aeis-root](https://github.com/m2r/m2r-aeis-root/subscription)
+    for information about assignments.
+    
+If you have question, find some bugs in the assignment descriptions or have
+an issue with 
+
+Questions / Bug / ... ?
+-----------------------
+If you found a bug in an assignement, if you have some comments or 
+or have a question about the course please post an 
+[GitHub issue](https://guides.github.com/features/issues/). Please select the
+repository that is most suited to your issue:
+
+* If the "issue" is of interest to others and concern the course in general, 
+  then post the issue in the ``m2r-aeis-info`` repository 
+  ([here](https://github.com/m2r/m2r-aeis-info/issues/new)).
+  
+* If the "issue" is related to a particular assignment and the question/issue
+  is relevant to other groups, then post the issue in the ``m2r-aeis-root``
+  repository ([here](https://github.com/m2r/m2r-aeis-info/issues/new))
+  
+* If the "issue" is only related to your group (you and other group member partner)
+  please post the issue in your group repository (``m2r-aeis-G12`` for instance). 
+  Use the (!) button to [create an issue](https://guides.github.com/features/issues/).
+  
+If you have some answer to some posted issues, please provide it directly online. 

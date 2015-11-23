@@ -43,11 +43,11 @@ echnical details are provided in the next sections.
     [m2r-aeis-root](https://github.com/m2r/m2r-aeis-root) repository.
     She gets the different files on her account at the university.
 
-4.  Noe puts Babako and her name in the ``CONTRIBUTORS.txt`` file.
+4.  Noe puts Babako and her name in the ``CONTRIBUTORS.md`` file.
     She "commits" and "pushes" this changes to the "group repository" on GitHub.
  
-5.  Noe browses the assignments, looks at TODO files, makes some first changes 
-    to implement the first assignment.
+5.  Noe browses the assignments, looks at existing WorkItems, 
+    makes some first changes in order to start implementing the first assignment.
 
 6.  From time to time Noe "commits" and "pushes" the modifications to the 
     "group repository" on GitHub. This will make it possible for her (or Babako)
@@ -61,7 +61,7 @@ echnical details are provided in the next sections.
 
 8.  At anytime Babako can also make a "clone" of the "group repository".
     He will get the last version "pushed" by Noe. He can then work in parallel on 
-    other tasks in the TODO list for instance.  
+    other issues for instance.  
    
 8.  To get the last updates from the "group repository", Noe and Babako
     "pull" the changes regularly. This allows them to incorporate modifications from each 
@@ -71,7 +71,7 @@ echnical details are provided in the next sections.
     
 9.  Deadline is about to arrived. Noe and Babako make sure that all their changes
     have been pushed to the "group repository" on GitHub. They also double check that
-    the TODO list has been updated and that it reflects what has been done.
+    the WorkItems has been updated and that they reflects what has been done.
     
 10. The deadline arrives. Nothing has to be delivered: everything is already
     in the "group repository". The work of the group is evaluated though the inspection
@@ -169,8 +169,27 @@ git pull -e root master
 # There is one directory per assignment.
 ```
 
+Browsing Work Definitions
+-------------------------
+Let us call "WorkDefinition" the definition of the tasks to perform
+to complete  assignments. Work definitions are implemented in terms of
+["issues"] https://guides.github.com/features/issues/)  in the 
+"root repository".
+
+The best to understand how it works is to have a look at the 
+[m2r-aeis-root issues](https://github.com/m2r/m2r-aeis-root/issues).
+
+If you have questions about work definitions, do not hesitate to pose a comment.
+
+*In the future you will have a copy of the issue in your own group repository.
+This feature will allow you to track the progress of each work item.*
+
+
 Changing the CONTRIBUTORS.md file
 ---------------------------------
+Your first work is defined by 
+[WorkDefinition#1 Define Repository Contributors](https://github.com/m2r/m2r-aeis-root/issues/1).
+
 The first action is to fill the ``CONTRIBUTORS.md`` file in the repository
 and to put the information about the group using the format such as below.
 Add a line for each partner in a group.

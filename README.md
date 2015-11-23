@@ -37,6 +37,7 @@ Assignment|Due date|Comment
 CyberResidenceOCL|dec 9, 23:59|Delivered on GitHub
 UMLClassMetamodel|dec 9, 23:59|Delivered on GitHub
 ModelioGenOCL|TBD|
+Article presentation|jan 14|
 
 Assignments are described in the "root repository"
 (<https://github.com/m2r/m2r-aeis-root>). 
